@@ -134,7 +134,7 @@ public:
         PracticeQTClass->setWindowTitle(QApplication::translate("PracticeQTClass", "PracticeQT", nullptr));
         label->setText(QApplication::translate("PracticeQTClass", "Description", nullptr));
         label_2->setText(QApplication::translate("PracticeQTClass", "Act", nullptr));
-        add->setText(QApplication::translate("PracticeQTClass", "Save", nullptr));
+        add->setText(QApplication::translate("PracticeQTClass", "Add", nullptr));
         accept->setText(QApplication::translate("PracticeQTClass", "Accept Idea", nullptr));
         update->setText(QApplication::translate("PracticeQTClass", "Update", nullptr));
         save->setText(QApplication::translate("PracticeQTClass", "Save Plot", nullptr));
